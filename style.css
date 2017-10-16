@@ -1,0 +1,104 @@
+body{
+  background: rgb(245,245,245);
+  color: black;
+  font-size: 25px;
+  font-family: Roboto;
+}
+h1{
+  font-family: Courier;
+  color: black;
+  font-weight: bolder;
+  font-size: 25px;
+  text-align: center;
+}
+h2 {
+  font-family: Roboto;
+  color: red;
+  font-weight: lighter;
+  font-size: 25px;
+  text-align: center;
+}
+a {
+  color: white
+  font-weight: underline;
+  text-align: center;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+  text-align: center;
+}
+
+#banner{
+  text-align: center;
+  background-image: url(http://hdgifs.com/wp-content/uploads/2017/01/tumblr_ojmksiNh1i1rw2owmo1_1280.gif); 
+  background-size: cover;
+  padding: 250px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+  text-align: center;
+}
+#banner h1 {
+    text-align: center;
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+  text-align: center;
+}
+#footer{
+  padding: 50px;
+  width: 100%;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+  text-align: center;
+}
+.card{
+  padding: 50px;
+  font-weight: lighter;
+  text-align: center;
+}
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
+#row { padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+text-align: center;}
+
+}
+#banner h3 {
+  color: blue;
+  background: rgb(30, 30, 30);
+  font-size: 50px;
+}
+.cta {
+
+  background-color: rgb(220, 220, 220);
+  padding: 50px;
+  text-align: center;
+}
+
+.container{
+
+  width: 100%;
+  text-align: center;
+}
+#gif{
+  text-align: center;
+  background-image: url("images/zidane.gif");
+  background-size: cover;
+  padding: 20vw 0;
+  color: white;
+  overflow-y: hidden;
+}
+
